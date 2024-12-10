@@ -1,6 +1,5 @@
 body {
     background-color: #161616;
-    min-height: 100vh;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
@@ -10,12 +9,6 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
-}
-
-.mainpage {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .container {
