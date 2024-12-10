@@ -11,6 +11,11 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
 .container {
     position: relative;
     background-image: url("../Images/bg.png");
@@ -22,7 +27,6 @@ body {
     box-shadow: rgba(0,0,0,0.1);
     border: 1px solid white;
     margin-top: 100px;
-    margin-left: 750px;
 }
 
 header,
